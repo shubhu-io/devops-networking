@@ -1,0 +1,8 @@
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+credentials
+credentials.json
+*.log
